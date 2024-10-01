@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Adarsh Kumar Singh
 - 👀 I’m interested in showcasing my projects and collabration with team.
-- 🌱 I’m currently learning DSA With C++.
 - 💞️ I’m looking to collaborate on prjects related to GUIs and product based company projects.
 - 📫 You can reach me out at adarsh.cs@yahoo.com 
 
